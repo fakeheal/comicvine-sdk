@@ -1,5 +1,11 @@
 # 🦸 Comicvine PHP SDK
 
+[![Tests](https://github.com/fakeheal/comicvine-sdk/actions/workflows/php.yml/badge.svg)](https://github.com/fakeheal/comicvine-sdk/actions/workflows/php.yml)
+![Packagist Version](https://img.shields.io/packagist/v/chronoarc/comicvine)
+![Packagist Downloads](https://img.shields.io/packagist/dt/chronoarc/comicvine)
+
+
+
 Welcome to the **Comicvine PHP SDK**, a lightweight and easy-to-use SDK designed to interact with
 the [Comicvine API](https://comicvine.gamespot.com/api/), built on top of the robust [Saloon](https://docs.saloon.dev)
 library.
