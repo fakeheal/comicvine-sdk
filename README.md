@@ -4,10 +4,9 @@ Welcome to the **Comicvine PHP SDK**, a lightweight and easy-to-use SDK designed
 the [Comicvine API](https://comicvine.gamespot.com/api/), built on top of the robust [Saloon](https://docs.saloon.dev)
 library.
 
-> [!CAUTION] Work in Progress
->
+> [!WARNING]
 > This project is a work in progress. Currently, it supports only the endpoints I need for another app I'm building.
-> However, the framework is designed to be extensible, making it easy to add support for additional endpoints.
+> However, the SDK is designed to be extensible, making it easy to add support for additional endpoints.
 
 ## 🚧 Progress
 
